@@ -3,3 +3,5 @@ Biriyani receipe
 Rice
 Ghee
 Onion
+
+water
