@@ -5,3 +5,6 @@ Ghee
 Onion
 
 water
+
+chicken
+masala
